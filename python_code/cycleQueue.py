@@ -15,18 +15,15 @@ def solution():
         if find == que[0]:
             que.popleft()
         else:
-            while not find == que[0]:
-                if find < que[mid]:
-                    while not find == que[0]:
-                        end = que.popleft()
-                        que.append(end)
-                        cnt += 1
-                if find >= que[mid]:
-                    while not find == que[0]:
-                        start = que.pop()
-                        que.appendleft(start)
-                        cnt += 1
-
+            idx =1
+            while not find == que[idx]:
+                idx+=1
+            if len(que)-idx >mid:
+                que.rotate(-idx)
+            else:
+                idx = len(que)-idx
+                que.rotate(idx)
+            cnt+=idx
             que.popleft()
     return cnt
 
