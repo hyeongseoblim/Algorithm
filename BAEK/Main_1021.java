@@ -26,18 +26,21 @@ public class Main_1021 {
                 list.remove(0);
             }
             else {
-                if (Math.abs(list.get(0) - i) < Math.abs(list.get(size - 1) - i)) {
-                    for (int j = 0; j < Math.abs(list.get(0) - i); j++) {
-                        list.add(list.get(0));
-                        list.remove(0);
-                        result++;
-                    }
-                } else if (Math.abs(list.get(0) - i) > Math.abs(list.get(size - 1) - i)) {
-                    for (int j = 0; j < Math.abs(list.get(size - 1) - i); j++) {
-                        list.add(0, list.get(size - 1));
-                        list.remove();
-
-                        result++;
+                for (int j = 1; j < size; j++) {
+                    if(i==list.get(j)) {
+                        if(size - j > size/2){
+                            for (int k = 0; k < j; k++) {
+                                list.add(list.pollFirst());
+                                result+=1;
+                            }
+                            break;
+                        }else{
+                            for (int k = 0; k < size-j; k++) {
+                                list.addFirst(list.pollLast());
+                                result+=1;
+                            }
+                            break;
+                        }
                     }
                 }
                 list.remove(0);
