@@ -35,7 +35,6 @@ def solution(maze):
             if left == '0' or left == "E":
                 direction = (direction + isgo - 1) % 4
                 answer += 1
-        else:
 
 
     return answer

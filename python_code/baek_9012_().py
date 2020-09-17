@@ -1,19 +1,25 @@
-import itertools
-from functools import reduce
-
-def factorial(n):
-    return reduce(lambda x, y: x * y, range(1, n+1))
-
-def solution(num, cards):
-
-    dp = [0 for i in range(10001)]
-
-    dp[0] = 1
-    for i in cards:
-        for j in range(i, num + 1):
-            dp[j] += dp[j - i]
-
-    return dp[num]
+from collections import deque
+import sys
 
 if __name__ == '__main__':
-    print(solution(8,[1,4,6]))
+    input = sys.stdin.readline
+    n = int(input())
+    result=""
+    for i in range(n):
+        line = list(input().rstrip())
+        deq = deque()
+        flag=True
+        for i in line:
+            if i=="(":
+                deq.append(i)
+            elif i == ")":
+                if deq:
+                    deq.pop()
+                else:
+                    flag=False
+                    break
+        if deq or not flag:
+            result="NO"
+        elif not deq and flag:
+            result="YES"
+        print(result)
