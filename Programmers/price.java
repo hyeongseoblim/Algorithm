@@ -17,7 +17,7 @@ public class price {
         for (int i = prices.length - 2; i >= 0; i--) {
             if (prices[i] > prices[i + 1]) {
                 answer[i]=1;
-                stack.push()
+                //stack.push();
             }
         }
         return answer;
