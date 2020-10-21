@@ -5,7 +5,7 @@ import java.util.StringTokenizer;
 
 public class Main_15650 {
     static boolean[] check;
-    static int[] array;
+
     static int n, m;
     static StringBuffer sb;
 
@@ -15,7 +15,7 @@ public class Main_15650 {
         StringTokenizer st = new StringTokenizer(br.readLine());
         n = Integer.parseInt(st.nextToken());
         m = Integer.parseInt(st.nextToken());
-        array = new int[n];
+
         check= new boolean[n];
         dfs(1,0);
         System.out.println(sb.toString().substring(0, sb.toString().length() - 1));
