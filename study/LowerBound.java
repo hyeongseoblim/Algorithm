@@ -29,7 +29,6 @@ public class LowerBound {
                 lower[len]=arr[i];
             }else{
                 // 가장 끝에 담긴 수보다 현재 수가 작거나 같은 경우
-
                 int sequence = binarysearch(arr[i], 0, len, lower);
                 lower[sequence] = arr[i];
             }

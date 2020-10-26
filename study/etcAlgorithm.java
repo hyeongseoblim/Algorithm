@@ -5,7 +5,7 @@ public class etcAlgorithm {
     static int[] array;
 
     public static void main(String[] args) {
-        System.out.println(isFrimeNumber(6));
+        System.out.println(isFrimeNumber(2));
         System.out.println(isFrimeNumber(7));
         Arrays.fill(prime, true);
         array = new int[]{1, 2, 3, 2, 5};
