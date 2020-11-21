@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="896dd6c0-d83c-4164-af2f-776eba8e863b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/Main_1021.java" beforeDir="false" afterPath="$PROJECT_DIR$/BAEK/Main_1021.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/baek_10799_iron.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/baek_10799_iron.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/baek_1439_reversestr.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/baek_1439_reversestr.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/baek_14502.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/baek_14502.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/baek_1629.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/baek_1629.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/baek_1647.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/baek_1647.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/baek_18352.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/baek_18352.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/baek_18406.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/baek_18406.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/baek_1926.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/baek_1926.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/baek_1977.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/baek_1977.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/baek_2075.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/baek_2075.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/baek_2178.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/baek_2178.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/baek_2504_couple.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/baek_2504_couple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/baek_3190_snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/baek_3190_snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/baek_4889.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/baek_4889.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/baek_4949_people.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/baek_4949_people.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/baek_5430_AC.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/baek_5430_AC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/baek_9012_().py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/baek_9012_().py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/h-index.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/h-index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/kakao1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/kakao1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/kakao2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/kakao2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/kakao3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/kakao3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/kakao4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/kakao4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/kakao5.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/kakao5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/kakao6.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/kakao6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/knum.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/knum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/line1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/line1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/line2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/line2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/line3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/line3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/line4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/line4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/maxnum.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/maxnum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/naver02.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/naver02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/naver03.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/naver03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/naver_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/naver_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/ntech1.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/ntech1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/ntech2.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/ntech2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/ntech3.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/ntech3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/ntech4.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/ntech4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/programmers_lockey.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/programmers_lockey.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/programmers_muckbang.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/programmers_muckbang.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/programmers_nogoal.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/programmers_nogoal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/programmers_nosee.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/programmers_nosee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/programmers_phonnumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/programmers_phonnumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programmers/programmers_str.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/programmers_str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SWEA/Solution_3459.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_code/Solution_3459.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jrSpjMGUh6ags002ujcx3vwYHK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/python_code" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="bigNumber" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="bigNumber" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="896dd6c0-d83c-4164-af2f-776eba8e863b" name="Default Changelist" comment="" />
+      <created>1604560901320</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604560901320</updated>
+      <workItem from="1604560902441" duration="1376000" />
+      <workItem from="1604562579332" duration="462000" />
+      <workItem from="1604563054093" duration="715000" />
+      <workItem from="1604639635247" duration="542000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="308" y="61" key="#Project_Structure" timestamp="1604640111815">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="308" y="61" key="#Project_Structure/0.23.1440.877@0.23.1440.877" timestamp="1604640111815" />
+    <state x="284" y="128" width="1071" height="772" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604639852874">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="284" y="128" width="1071" height="772" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1604639852874" />
+    <state width="1398" height="286" key="GridCell.Tab.0.bottom" timestamp="1604639843081">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1604639843081" />
+    <state width="1398" height="286" key="GridCell.Tab.0.center" timestamp="1604639843080">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1604639843080" />
+    <state width="1398" height="286" key="GridCell.Tab.0.left" timestamp="1604639843080">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1604639843080" />
+    <state width="1398" height="286" key="GridCell.Tab.0.right" timestamp="1604639843081">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1604639843081" />
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom" timestamp="1604639843083">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1604639843083" />
+    <state width="1398" height="286" key="GridCell.Tab.1.center" timestamp="1604639843082">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1604639843082" />
+    <state width="1398" height="286" key="GridCell.Tab.1.left" timestamp="1604639843082">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1604639843082" />
+    <state width="1398" height="286" key="GridCell.Tab.1.right" timestamp="1604639843082">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1604639843082" />
+    <state x="308" y="61" key="SettingsEditor" timestamp="1604640177476">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="308" y="61" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1604640177476" />
+  </component>
+</project>
