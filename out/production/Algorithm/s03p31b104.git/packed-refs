@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+4d978cadfb818485e44d2b397da21d12ac85ea27 refs/heads/develop
+bec839c58daa3149dd5d4243ff49f403d68768c5 refs/heads/feature/Intro
+95475a3a5152c7aaeb8849fd132d44df704254f6 refs/heads/feature/automode
+c59193a7694bf9f1ee975b8fd53cff8c35777bdf refs/heads/feature/css
+2720c00e8eb6e0920f3a81a9dc150270a3147bc9 refs/heads/feature/frontend
+bfb6cae0038e3a8579ece9f47ab27e9dfc56ad8b refs/heads/feature/write
+a8b2ab73f40429d9050635d7d986d0d5b47fd8c5 refs/heads/master
