@@ -1,8 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = true
-	ignorecase = true
-	precomposeunicode = true
-[remote "origin"]
-	url = https://lab.ssafy.com/s03-final/s03p31b104.git
