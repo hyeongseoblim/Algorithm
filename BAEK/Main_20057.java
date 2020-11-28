@@ -107,8 +107,7 @@ public class Main_20057 {
             if(dir==4)
                 dir=0;
             if(flag >= 2){
-                abs++;
-
+                abs++;  
                 flag=0;
             }
             dfs(y+dy[dir],x+dx[dir],abs,dir,abs,flag);
