@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="896dd6c0-d83c-4164-af2f-776eba8e863b" name="Default Changelist" comment="알고리즘 문제 풀이">
-      <change afterPath="$PROJECT_DIR$/BAEK/Main_10972.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/FunctionDevelop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BAEK/Main_10971.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAEK/Main_20057.java" beforeDir="false" afterPath="$PROJECT_DIR$/BAEK/Main_20057.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +61,39 @@
       <recent name="$PROJECT_DIR$/python_code" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main_10972">
+  <component name="RunManager" selected="Application.Main_10971">
     <configuration name="FunctionDevelop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmers.FunctionDevelop" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_10819" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BAEK.Main_10819" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BAEK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_10971" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BAEK.Main_10971" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BAEK.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,34 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_1476" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BAEK.Main_1476" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BAEK.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main_20057" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BAEK.Main_20057" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BAEK.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_9095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BAEK.Main_9095" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -154,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_10971" />
+        <item itemvalue="Application.Main_10819" />
         <item itemvalue="Application.Main_10972" />
         <item itemvalue="Application.FunctionDevelop" />
         <item itemvalue="Application.Main_20057" />
-        <item itemvalue="Application.Main_9095" />
-        <item itemvalue="Application.Main_1476" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +178,7 @@
       <workItem from="1606105818789" duration="24999000" />
       <workItem from="1606376992116" duration="141000" />
       <workItem from="1606377136129" duration="3104000" />
-      <workItem from="1606545666119" duration="822000" />
+      <workItem from="1606545666119" duration="9322000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘 문제 풀이">
       <created>1606377028196</created>
@@ -190,7 +187,21 @@
       <option name="project" value="LOCAL" />
       <updated>1606377028196</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="알고리즘 문제 풀이">
+      <created>1606549829783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606549829783</updated>
+    </task>
+    <task id="LOCAL-00003" summary="알고리즘 문제 풀이">
+      <created>1606554743186</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606554743186</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,45 +232,45 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="284" y="80" width="1071" height="820" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1604640254115" />
-    <state width="1398" height="286" key="GridCell.Tab.0.bottom" timestamp="1606384810491">
+    <state width="1398" height="286" key="GridCell.Tab.0.bottom" timestamp="1606557730516">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1606384810491" />
+    <state width="1398" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1606557730516" />
     <state width="1398" height="286" key="GridCell.Tab.0.bottom/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="286" key="GridCell.Tab.0.center" timestamp="1606384810490">
+    <state width="1398" height="286" key="GridCell.Tab.0.center" timestamp="1606557730514">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1606384810490" />
+    <state width="1398" height="286" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1606557730514" />
     <state width="1398" height="286" key="GridCell.Tab.0.center/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="286" key="GridCell.Tab.0.left" timestamp="1606384810489">
+    <state width="1398" height="286" key="GridCell.Tab.0.left" timestamp="1606557730513">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1606384810489" />
+    <state width="1398" height="286" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1606557730513" />
     <state width="1398" height="286" key="GridCell.Tab.0.left/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="286" key="GridCell.Tab.0.right" timestamp="1606384810490">
+    <state width="1398" height="286" key="GridCell.Tab.0.right" timestamp="1606557730515">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1606384810490" />
+    <state width="1398" height="286" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1606557730515" />
     <state width="1398" height="286" key="GridCell.Tab.0.right/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="286" key="GridCell.Tab.1.bottom" timestamp="1606384810493">
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom" timestamp="1606557743475">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1606384810493" />
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1606557743475" />
     <state width="1398" height="286" key="GridCell.Tab.1.bottom/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812590" />
-    <state width="1398" height="286" key="GridCell.Tab.1.center" timestamp="1606384810492">
+    <state width="1398" height="286" key="GridCell.Tab.1.center" timestamp="1606557743473">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1606384810492" />
+    <state width="1398" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1606557743473" />
     <state width="1398" height="286" key="GridCell.Tab.1.center/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812590" />
-    <state width="1398" height="286" key="GridCell.Tab.1.left" timestamp="1606384810492">
+    <state width="1398" height="286" key="GridCell.Tab.1.left" timestamp="1606557743472">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1606384810492" />
+    <state width="1398" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1606557743472" />
     <state width="1398" height="286" key="GridCell.Tab.1.left/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="286" key="GridCell.Tab.1.right" timestamp="1606384810492">
+    <state width="1398" height="286" key="GridCell.Tab.1.right" timestamp="1606557743474">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1606384810492" />
+    <state width="1398" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1606557743474" />
     <state width="1398" height="286" key="GridCell.Tab.1.right/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812590" />
     <state x="308" y="61" key="SettingsEditor" timestamp="1604640282874">
       <screen x="0" y="23" width="1440" height="877" />
@@ -335,6 +346,26 @@
           <url>file://$PROJECT_DIR$/Programmers/FunctionDevelop.java</url>
           <line>17</line>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BAEK/Main_10972.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BAEK/Main_10972.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BAEK/Main_10819.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BAEK/Main_10971.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/BAEK/Main_1978.java</url>
