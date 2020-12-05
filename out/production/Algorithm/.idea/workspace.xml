@@ -20,8 +20,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="896dd6c0-d83c-4164-af2f-776eba8e863b" name="Default Changelist" comment="알고리즘 문제 풀이">
-      <change afterPath="$PROJECT_DIR$/BAEK/Main_10971.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BAEK/Main_10974.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BAEK/Main_15686.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BAEK/Main_1726.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BAEK/Main_1759.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BAEK/Main_18428.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BAEK/Main_6603.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest/danal01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest/danal02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest/danal03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodingTest/danal04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/CountingBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/gidung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/preN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/Main_9935.java" beforeDir="false" afterPath="$PROJECT_DIR$/BAEK/Main_9935.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Main_9935.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/sortingalgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/sortingalgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/sortingalgorithm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +69,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -61,9 +79,9 @@
       <recent name="$PROJECT_DIR$/python_code" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main_10971">
-    <configuration name="FunctionDevelop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.FunctionDevelop" />
+  <component name="RunManager" selected="Application.Main_18428">
+    <configuration name="CountingBridge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.CountingBridge" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_10819" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BAEK.Main_10819" />
+    <configuration name="Main_1726" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BAEK.Main_1726" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -88,34 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_10971" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BAEK.Main_10971" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BAEK.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_10972" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BAEK.Main_10972" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BAEK.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_20057" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BAEK.Main_20057" />
+    <configuration name="Main_18428" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BAEK.Main_18428" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -136,26 +128,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="danal02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingTest.danal02" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="danal04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CodingTest.danal04" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CodingTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main_10971" />
-        <item itemvalue="Application.Main_10819" />
-        <item itemvalue="Application.Main_10972" />
-        <item itemvalue="Application.FunctionDevelop" />
-        <item itemvalue="Application.Main_20057" />
+        <item itemvalue="Application.Main_18428" />
+        <item itemvalue="Application.Main_1726" />
+        <item itemvalue="Application.danal04" />
+        <item itemvalue="Application.danal02" />
+        <item itemvalue="Application.CountingBridge" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +194,10 @@
       <workItem from="1606105818789" duration="24999000" />
       <workItem from="1606376992116" duration="141000" />
       <workItem from="1606377136129" duration="3104000" />
-      <workItem from="1606545666119" duration="9322000" />
+      <workItem from="1606545666119" duration="13853000" />
+      <workItem from="1606721570348" duration="6757000" />
+      <workItem from="1606805337338" duration="12456000" />
+      <workItem from="1606842811561" duration="27285000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘 문제 풀이">
       <created>1606377028196</created>
@@ -201,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606554743186</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="알고리즘 문제 풀이">
+      <created>1606656573026</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606656573026</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,62 +258,66 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="284" y="80" width="1071" height="820" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1604640254115" />
-    <state width="1398" height="286" key="GridCell.Tab.0.bottom" timestamp="1606557730516">
+    <state x="533" y="175" key="#com.intellij.ide.util.MemberChooser" timestamp="1606816852784">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1606557730516" />
+    <state x="533" y="175" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1606816852784" />
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1607149156404">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1607149156404" />
     <state width="1398" height="286" key="GridCell.Tab.0.bottom/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="286" key="GridCell.Tab.0.center" timestamp="1606557730514">
+    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1607149156403">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1606557730514" />
+    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1607149156403" />
     <state width="1398" height="286" key="GridCell.Tab.0.center/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="286" key="GridCell.Tab.0.left" timestamp="1606557730513">
+    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1607149156403">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1606557730513" />
+    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1607149156403" />
     <state width="1398" height="286" key="GridCell.Tab.0.left/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="286" key="GridCell.Tab.0.right" timestamp="1606557730515">
+    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1607149156403">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1606557730515" />
+    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1607149156403" />
     <state width="1398" height="286" key="GridCell.Tab.0.right/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="286" key="GridCell.Tab.1.bottom" timestamp="1606557743475">
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom" timestamp="1607078605922">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1606557743475" />
+    <state width="1398" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1607078605922" />
     <state width="1398" height="286" key="GridCell.Tab.1.bottom/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812590" />
-    <state width="1398" height="286" key="GridCell.Tab.1.center" timestamp="1606557743473">
+    <state width="1398" height="286" key="GridCell.Tab.1.center" timestamp="1607078605922">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1606557743473" />
+    <state width="1398" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1607078605922" />
     <state width="1398" height="286" key="GridCell.Tab.1.center/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812590" />
-    <state width="1398" height="286" key="GridCell.Tab.1.left" timestamp="1606557743472">
+    <state width="1398" height="286" key="GridCell.Tab.1.left" timestamp="1607078605921">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1606557743472" />
+    <state width="1398" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1607078605921" />
     <state width="1398" height="286" key="GridCell.Tab.1.left/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="286" key="GridCell.Tab.1.right" timestamp="1606557743474">
+    <state width="1398" height="286" key="GridCell.Tab.1.right" timestamp="1607078605922">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1606557743474" />
+    <state width="1398" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1607078605922" />
     <state width="1398" height="286" key="GridCell.Tab.1.right/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812590" />
-    <state x="308" y="61" key="SettingsEditor" timestamp="1604640282874">
+    <state x="308" y="61" key="SettingsEditor" timestamp="1606835433185">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="308" y="61" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1604640282874" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1606377096784">
+    <state x="308" y="61" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1606835433185" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1606656580657">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1606377096784" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1606656580657" />
     <state x="260" y="197" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606109586118">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="260" y="197" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.877@0.23.1440.877" timestamp="1606109586118" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1606546458102">
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1606979486139">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1606546458102" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1606979486139" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -363,9 +393,49 @@
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/BAEK/Main_10971.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="58" />
+          <url>file://$PROJECT_DIR$/Programmers/gidung.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BAEK/Main_9935.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BAEK/Main_15686.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BAEK/Main_15686.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BAEK/Main_15686.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BAEK/Main_1759.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programmers/CountingBridge.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CodingTest/danal02.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/CodingTest/danal02.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/BAEK/Main_1978.java</url>
@@ -398,6 +468,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/BAEK/Main_6603.java</url>
+          <line>24</line>
+          <properties class="BAEK.Main_6603" method="combination">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="75" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

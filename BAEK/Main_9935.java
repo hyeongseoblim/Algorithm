@@ -1,45 +1,42 @@
+package BAEK;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.Stack;
+import java.util.StringTokenizer;
 
 public class Main_9935 {
-	public static void main(String[] args) throws IOException {
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		String[] line = br.readLine().split("");
-		String keyword = br.readLine();
-
-		String temp = "";
-		String temp2 ="";
-		boolean flag = false;
-		int idx = 0;
-		while (!(line.length == 0)) {
-			temp += line[idx];
-			idx++;
-			if (temp.length() == keyword.length()) {
-				if (!temp.equals(keyword)) {
-					temp2 += temp.substring(0,1);
-					temp = temp.substring(1, temp.length());
-				} else {
-					flag = true;
-					temp="";
-				}
-			}
-			if (idx == line.length) {
-				temp2+=temp;
-				temp = "";
-				if (flag) {
-					idx =0;
-					line = temp2.split("");
-					temp2="";
-					flag = false;
-				} else {
-					temp=temp2;
-					break;
-				}
-			}
-		}
-		if (temp.length() == 0)
-			temp = "FRULA";
-		System.out.println(temp);
-	}
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        char[] line = br.readLine().toCharArray();
+        char[] keyword = br.readLine().toCharArray();
+        Stack<Character> stk = new Stack<>();
+        for (int i = 0; i < line.length; i++) {
+            stk.push(line[i]);
+            if(stk.size()>=keyword.length){
+                boolean flag = true;
+                for (int j = 0; j < keyword.length; j++) {
+                    if(keyword[keyword.length-1-j]!=stk.get(stk.size()-1-j)){
+                        flag =false;
+                        break;}
+                }
+                if(flag){
+                    for (int j =0; j<keyword.length; j++) {
+                        stk.pop();
+                    }
+                }
+            }
+        }
+        if(stk.size()!=0) {
+            StringBuilder sb = new StringBuilder();
+            for (int i = 0; i < stk.size(); i++) {
+                sb.append(stk.get(i));
+            }
+            System.out.println(sb.toString());
+        }else{
+            System.out.println("FRULA");
+        }
+    }
 }

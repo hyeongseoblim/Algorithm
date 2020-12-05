@@ -1,3 +1,5 @@
+package study;
+
 import java.util.Arrays;
 
 public class sortingalgorithm {
@@ -14,14 +16,15 @@ public class sortingalgorithm {
     }
 
     private static int[] selection_sort(int[] array) {
-        int min = 0;
+        int min = 0; // 최솟값 인덱스 설정
         for (int i = 0; i < array.length; i++) {
-            min = i;
-            for (int j = i + 1; j < array.length; j++) {
+            min = i;//i를 항상 최소라 간주
+
+            for (int j = i + 1; j < array.length; j++) { // i보다 큰 인덱스에서 i보다 작은 값의 인덱스 찾기
                 if (array[min] > array[j]) {
                     min = j;
                 }
-                array = swap(array, min, i);
+                array = swap(array, min, i); // 발견시 위치를 변경
             }
         }
         return array;
