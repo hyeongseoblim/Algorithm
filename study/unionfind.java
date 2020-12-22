@@ -1,9 +1,11 @@
+package study;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class unionfind {
+public class  unionfind {
     static int[] parent;
     public static int find( int now){
         if(parent[now] != now)

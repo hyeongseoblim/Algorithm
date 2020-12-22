@@ -7,7 +7,6 @@ public class algoskill {
     static boolean[] check = new boolean[arr.length];
     public static void main(String[] args) {
         System.out.println("Subset");
-        Subset(new boolean[arr.length], 0);
 
         System.out.println("Permutation");
         Permutation(new int[arr.length], 0);
@@ -20,6 +19,8 @@ public class algoskill {
 
         System.out.println("Recombination");
         Recombination(new int[arr.length-1], 0, 0);
+
+        HashMap<String,String> a = new HashMap<>();
     }
     private static void Recombination(int[] ans, int idx, int r) {
         if(r == ans.length) {

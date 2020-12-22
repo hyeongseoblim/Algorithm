@@ -1,10 +1,12 @@
+package study;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class fluAlgorithm {
+public class fluAgorithm {
     static final int INF = (int) 1e9;
     static int n, m;
     static int[][] graph = new int[501][501];

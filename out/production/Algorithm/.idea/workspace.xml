@@ -20,25 +20,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="896dd6c0-d83c-4164-af2f-776eba8e863b" name="Default Changelist" comment="알고리즘 문제 풀이">
-      <change afterPath="$PROJECT_DIR$/BAEK/Main_10974.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAEK/Main_15686.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAEK/Main_1726.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAEK/Main_1759.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAEK/Main_18428.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAEK/Main_6603.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest/danal01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest/danal02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest/danal03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest/danal04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/CountingBridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/gidung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programmers/preN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BAEK/Main_11724.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BAEK/Main_1655.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nav.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAEK/Main_9935.java" beforeDir="false" afterPath="$PROJECT_DIR$/BAEK/Main_9935.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BAEK/Main_18428.java" beforeDir="false" afterPath="$PROJECT_DIR$/BAEK/Main_18428.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/Main_9935.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/sortingalgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/sortingalgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/sortingalgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/LowerBound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/SearchAlgorithm$check.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/SearchAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/algoproblem$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/algoproblem$point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/algoproblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/dijkstarAlgorithm$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/dijkstarAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/fluAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/kruskalAlgorithm$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/kruskalAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/study/algoskill.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/study/algoskill.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/unionfind.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/LowerBound.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/LowerBound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/SearchAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/SearchAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/algoproblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/algoproblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/algoskill.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/algoskill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/dijkstarAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/dijkstarAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/fluAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/fluAgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/kruskalAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/kruskalAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/unionfind.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/unionfind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,22 +87,9 @@
       <recent name="$PROJECT_DIR$/python_code" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main_18428">
-    <configuration name="CountingBridge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmers.CountingBridge" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Programmers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_1726" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BAEK.Main_1726" />
+  <component name="RunManager" selected="Application.Main_11724">
+    <configuration name="Main_11724" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BAEK.Main_11724" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_18428" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BAEK.Main_18428" />
+    <configuration name="Main_1655" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BAEK.Main_1655" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -115,6 +110,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nav" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nav" />
+      <module name="Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="danal02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingTest.danal02" />
+    <configuration name="dijkstarAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.dijkstarAlgorithm" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingTest.*" />
+          <option name="PATTERN" value="study.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="danal04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CodingTest.danal04" />
+    <configuration name="unionfind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.unionfind" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CodingTest.*" />
+          <option name="PATTERN" value="study.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,24 +156,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main_18428" />
-        <item itemvalue="Application.Main_1726" />
-        <item itemvalue="Application.danal04" />
-        <item itemvalue="Application.danal02" />
-        <item itemvalue="Application.CountingBridge" />
+        <item itemvalue="Application.Main_11724" />
+        <item itemvalue="Application.Nav" />
+        <item itemvalue="Application.Main_1655" />
+        <item itemvalue="Application.dijkstarAlgorithm" />
+        <item itemvalue="Application.unionfind" />
       </list>
     </recent_temporary>
   </component>
@@ -197,7 +201,15 @@
       <workItem from="1606545666119" duration="13853000" />
       <workItem from="1606721570348" duration="6757000" />
       <workItem from="1606805337338" duration="12456000" />
-      <workItem from="1606842811561" duration="27285000" />
+      <workItem from="1606842811561" duration="35901000" />
+      <workItem from="1607441360442" duration="7636000" />
+      <workItem from="1607612435030" duration="1423000" />
+      <workItem from="1607739831417" duration="45000" />
+      <workItem from="1607741608189" duration="236000" />
+      <workItem from="1608009990139" duration="2457000" />
+      <workItem from="1608014610287" duration="9000" />
+      <workItem from="1608015302840" duration="169000" />
+      <workItem from="1608649883969" duration="1115000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘 문제 풀이">
       <created>1606377028196</created>
@@ -227,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606656573026</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="알고리즘 문제 풀이">
+      <created>1607156873778</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607156873778</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +269,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="알고리즘 문제 풀이" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="74" key="#Live_Templates" timestamp="1608010027056">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="0" y="74" key="#Live_Templates/0.23.1440.877@0.23.1440.877" timestamp="1608010027056" />
     <state x="308" y="61" key="#Project_Structure" timestamp="1604640111815">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -262,54 +285,54 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="533" y="175" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1606816852784" />
-    <state width="1398" height="231" key="GridCell.Tab.0.bottom" timestamp="1607149156404">
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1608015471670">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1607149156404" />
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1608015471670" />
     <state width="1398" height="286" key="GridCell.Tab.0.bottom/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="231" key="GridCell.Tab.0.center" timestamp="1607149156403">
+    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1608015471670">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1607149156403" />
+    <state width="1398" height="237" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1608015471670" />
     <state width="1398" height="286" key="GridCell.Tab.0.center/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="231" key="GridCell.Tab.0.left" timestamp="1607149156403">
+    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1608015471670">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1607149156403" />
+    <state width="1398" height="237" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1608015471670" />
     <state width="1398" height="286" key="GridCell.Tab.0.left/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="231" key="GridCell.Tab.0.right" timestamp="1607149156403">
+    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1608015471670">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="231" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1607149156403" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1608015471670" />
     <state width="1398" height="286" key="GridCell.Tab.0.right/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="286" key="GridCell.Tab.1.bottom" timestamp="1607078605922">
+    <state width="1398" height="397" key="GridCell.Tab.1.bottom" timestamp="1607583913433">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1607078605922" />
+    <state width="1398" height="397" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1607583913433" />
     <state width="1398" height="286" key="GridCell.Tab.1.bottom/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812590" />
-    <state width="1398" height="286" key="GridCell.Tab.1.center" timestamp="1607078605922">
+    <state width="1398" height="397" key="GridCell.Tab.1.center" timestamp="1607583913433">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1607078605922" />
+    <state width="1398" height="397" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1607583913433" />
     <state width="1398" height="286" key="GridCell.Tab.1.center/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812590" />
-    <state width="1398" height="286" key="GridCell.Tab.1.left" timestamp="1607078605921">
+    <state width="1398" height="397" key="GridCell.Tab.1.left" timestamp="1607583913433">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1607078605921" />
+    <state width="1398" height="397" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1607583913433" />
     <state width="1398" height="286" key="GridCell.Tab.1.left/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="286" key="GridCell.Tab.1.right" timestamp="1607078605922">
+    <state width="1398" height="397" key="GridCell.Tab.1.right" timestamp="1607583913433">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1607078605922" />
+    <state width="1398" height="397" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1607583913433" />
     <state width="1398" height="286" key="GridCell.Tab.1.right/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812590" />
     <state x="308" y="61" key="SettingsEditor" timestamp="1606835433185">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="308" y="61" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1606835433185" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1606656580657">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1607156880760">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1606656580657" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1607156880760" />
     <state x="260" y="197" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606109586118">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -436,6 +459,11 @@
           <url>file://$PROJECT_DIR$/CodingTest/danal02.java</url>
           <line>16</line>
           <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BAEK/Main_1655.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="100" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/BAEK/Main_1978.java</url>

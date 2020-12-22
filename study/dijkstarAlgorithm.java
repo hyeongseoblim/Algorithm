@@ -1,3 +1,5 @@
+package study;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -48,22 +50,39 @@ public class dijkstarAlgorithm {
 
     private static void dijkstra(int start) {
         //시작 노드로 가기 위한 최단 경로는 0, 큐에 삽입.
-        PriorityQueue<Node> pq = new PriorityQueue<>();
-        pq.offer(new Node(start, 0));
-        dist[start] = 0;
-        // 큐가 비어 있지 않는 동안 가장 최단 거리가 짧은 노드에 대해 정보 꺼내기
-
-        while (!pq.isEmpty()) {
-            Node now = pq.poll();
-            int dis = now.getDistance();
-            int idx = now.getDistance();
-            if (dist[idx] < dis)
+//        PriorityQueue<Node> pq = new PriorityQueue<>();
+//        pq.offer(new Node(start, 0));
+//        dist[start] = 0;
+//        // 큐가 비어 있지 않는 동안 가장 최단 거리가 짧은 노드에 대해 정보 꺼내기
+//
+//        while (!pq.isEmpty()) {
+//            Node now = pq.poll();
+//            int dis = now.getDistance();
+//            int idx = now.getDistance();
+//            if (dist[idx] < dis)
+//                continue;
+//            for (int i = 0; i < graph.get(idx).size(); i++) {
+//                int cost = dist[idx] + graph.get(idx).get(i).getDistance();
+//                if (cost < dist[graph.get(idx).get(i).getIndex()]) {
+//                    dist[graph.get(idx).get(i).getIndex()] = cost;
+//                    pq.offer(new Node(graph.get(idx).get(i).getIndex(), cost));
+//                }
+//            }
+//        }
+        PriorityQueue<Node> que = new PriorityQueue<>();
+        que.add(new Node(start,0));
+        dist[start] =0;
+        while(!que.isEmpty()){
+            Node now = que.poll();
+            int distance = now.distance;
+            int idx = now.index;
+            if(dist[idx]<distance)
                 continue;
             for (int i = 0; i < graph.get(idx).size(); i++) {
-                int cost = dist[idx] + graph.get(idx).get(i).getDistance();
-                if (cost < dist[graph.get(idx).get(i).getIndex()]) {
-                    dist[graph.get(idx).get(i).getIndex()] = cost;
-                    pq.offer(new Node(graph.get(idx).get(i).getIndex(), cost));
+                int cost = dist[idx]+graph.get(idx).get(i).distance;
+                if(cost<dist[graph.get(idx).get(i).index]){
+                    dist[graph.get(idx).get(i).index]=cost;
+                    que.add(new Node(graph.get(idx).get(i).index, cost));
                 }
             }
         }

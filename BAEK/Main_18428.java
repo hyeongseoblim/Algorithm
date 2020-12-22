@@ -73,7 +73,6 @@ public class Main_18428 {
 
     static boolean dfs(int cnt, boolean[] space, boolean flag) {
         if (cnt == 3) {
-            boolean flag = true;
             for (int i = 0; i < teacher.size(); i++) {
                 int[] now = teacher.get(i);
                 flag = watch(now[0], now[1], 0);
@@ -89,10 +88,10 @@ public class Main_18428 {
                 continue;
             else {
                 space[i] = true;
-                dfs(1, space);
+                dfs(1, space,flag);
                 space[i] = false;
             }
         }
-
+    return flag;
     }
 }
