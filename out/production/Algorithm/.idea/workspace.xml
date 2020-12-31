@@ -20,33 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="896dd6c0-d83c-4164-af2f-776eba8e863b" name="Default Changelist" comment="알고리즘 문제 풀이">
-      <change afterPath="$PROJECT_DIR$/BAEK/Main_11724.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BAEK/Main_1655.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nav.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BAEK/Main_13335.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BAEK/Main_18428.java" beforeDir="false" afterPath="$PROJECT_DIR$/BAEK/Main_18428.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/LowerBound.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/SearchAlgorithm$check.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/SearchAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/algoproblem$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/algoproblem$point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/algoproblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/dijkstarAlgorithm$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/dijkstarAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/fluAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/kruskalAlgorithm$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/kruskalAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/study/algoskill.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/study/algoskill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm/unionfind.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/LowerBound.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/LowerBound.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/SearchAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/SearchAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/algoproblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/algoproblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/algoskill.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/algoskill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/dijkstarAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/dijkstarAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/fluAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/fluAgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/kruskalAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/kruskalAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/unionfind.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/unionfind.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,9 +63,22 @@
       <recent name="$PROJECT_DIR$/python_code" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main_11724">
+  <component name="RunManager" selected="Application.Main_13335">
     <configuration name="Main_11724" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BAEK.Main_11724" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BAEK.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_13335" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BAEK.Main_13335" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -143,39 +132,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="unionfind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.unionfind" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main_13335" />
         <item itemvalue="Application.Main_11724" />
         <item itemvalue="Application.Nav" />
         <item itemvalue="Application.Main_1655" />
         <item itemvalue="Application.dijkstarAlgorithm" />
-        <item itemvalue="Application.unionfind" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +172,8 @@
       <workItem from="1608009990139" duration="2457000" />
       <workItem from="1608014610287" duration="9000" />
       <workItem from="1608015302840" duration="169000" />
-      <workItem from="1608649883969" duration="1115000" />
+      <workItem from="1608649883969" duration="2074000" />
+      <workItem from="1608975621049" duration="1687000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘 문제 풀이">
       <created>1606377028196</created>
@@ -285,45 +249,45 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="533" y="175" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1606816852784" />
-    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1608015471670">
+    <state width="1398" height="397" key="GridCell.Tab.0.bottom" timestamp="1609086954814">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1608015471670" />
-    <state width="1398" height="286" key="GridCell.Tab.0.bottom/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1608015471670">
+    <state width="1398" height="397" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1609086954814" />
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1608653289471" />
+    <state width="1398" height="397" key="GridCell.Tab.0.center" timestamp="1609086954813">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1608015471670" />
-    <state width="1398" height="286" key="GridCell.Tab.0.center/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1608015471670">
+    <state width="1398" height="397" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1609086954813" />
+    <state width="1398" height="237" key="GridCell.Tab.0.center/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1608653289470" />
+    <state width="1398" height="397" key="GridCell.Tab.0.left" timestamp="1609086954812">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1608015471670" />
-    <state width="1398" height="286" key="GridCell.Tab.0.left/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1608015471670">
+    <state width="1398" height="397" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1609086954812" />
+    <state width="1398" height="237" key="GridCell.Tab.0.left/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1608653289470" />
+    <state width="1398" height="397" key="GridCell.Tab.0.right" timestamp="1609086954813">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="237" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1608015471670" />
-    <state width="1398" height="286" key="GridCell.Tab.0.right/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="397" key="GridCell.Tab.1.bottom" timestamp="1607583913433">
+    <state width="1398" height="397" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1609086954813" />
+    <state width="1398" height="237" key="GridCell.Tab.0.right/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1608653289471" />
+    <state width="1398" height="397" key="GridCell.Tab.1.bottom" timestamp="1609086954815">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="397" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1607583913433" />
+    <state width="1398" height="397" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1609086954815" />
     <state width="1398" height="286" key="GridCell.Tab.1.bottom/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812590" />
-    <state width="1398" height="397" key="GridCell.Tab.1.center" timestamp="1607583913433">
+    <state width="1398" height="397" key="GridCell.Tab.1.center" timestamp="1609086954814">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="397" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1607583913433" />
+    <state width="1398" height="397" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1609086954814" />
     <state width="1398" height="286" key="GridCell.Tab.1.center/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812590" />
-    <state width="1398" height="397" key="GridCell.Tab.1.left" timestamp="1607583913433">
+    <state width="1398" height="397" key="GridCell.Tab.1.left" timestamp="1609086954814">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="397" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1607583913433" />
+    <state width="1398" height="397" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1609086954814" />
     <state width="1398" height="286" key="GridCell.Tab.1.left/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="397" key="GridCell.Tab.1.right" timestamp="1607583913433">
+    <state width="1398" height="397" key="GridCell.Tab.1.right" timestamp="1609086954814">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="397" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1607583913433" />
+    <state width="1398" height="397" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1609086954814" />
     <state width="1398" height="286" key="GridCell.Tab.1.right/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812590" />
     <state x="308" y="61" key="SettingsEditor" timestamp="1606835433185">
       <screen x="0" y="23" width="1440" height="877" />
@@ -464,6 +428,11 @@
           <url>file://$PROJECT_DIR$/BAEK/Main_1655.java</url>
           <line>35</line>
           <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BAEK/Main_13335.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/BAEK/Main_1978.java</url>
