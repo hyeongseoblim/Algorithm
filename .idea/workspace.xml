@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="896dd6c0-d83c-4164-af2f-776eba8e863b" name="Default Changelist" comment="알고리즘 문제 풀이">
-      <change afterPath="$PROJECT_DIR$/BAEK/Main_13335.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programmers/Printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -63,7 +63,7 @@
       <recent name="$PROJECT_DIR$/python_code" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main_13335">
+  <component name="RunManager" selected="Application.Printer">
     <configuration name="Main_11724" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BAEK.Main_11724" />
       <module name="Algorithm" />
@@ -110,6 +110,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Printer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmers.Printer" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Programmers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="bigNumber" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -119,26 +132,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dijkstarAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.dijkstarAlgorithm" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Printer" />
         <item itemvalue="Application.Main_13335" />
         <item itemvalue="Application.Main_11724" />
         <item itemvalue="Application.Nav" />
         <item itemvalue="Application.Main_1655" />
-        <item itemvalue="Application.dijkstarAlgorithm" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +187,7 @@
       <workItem from="1608975621049" duration="1687000" />
       <workItem from="1609253679189" duration="504000" />
       <workItem from="1609335080263" duration="322000" />
+      <workItem from="1609591189005" duration="8366000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘 문제 풀이">
       <created>1606377028196</created>
@@ -247,48 +259,57 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="284" y="80" width="1071" height="820" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1604640254115" />
-    <state x="533" y="175" key="#com.intellij.ide.util.MemberChooser" timestamp="1606816852784">
+    <state x="533" y="175" key="#com.intellij.ide.util.MemberChooser" timestamp="1609598458341">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state x="533" y="175" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/1440.-45.3840.2137@0.23.1440.877" timestamp="1609598458341" />
     <state x="533" y="175" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877@0.23.1440.877" timestamp="1606816852784" />
-    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1609256088866">
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom" timestamp="1609599624633">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-45.3840.2137@0.23.1440.877" timestamp="1609599624633" />
     <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1609256088866" />
     <state width="1398" height="237" key="GridCell.Tab.0.bottom/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1608653289471" />
-    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1609256088865">
+    <state width="1398" height="237" key="GridCell.Tab.0.center" timestamp="1609599624632">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.center/0.23.1440.877/1440.-45.3840.2137@0.23.1440.877" timestamp="1609599624632" />
     <state width="1398" height="237" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1609256088865" />
     <state width="1398" height="237" key="GridCell.Tab.0.center/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1608653289470" />
-    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1609256088865">
+    <state width="1398" height="237" key="GridCell.Tab.0.left" timestamp="1609599624631">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.left/0.23.1440.877/1440.-45.3840.2137@0.23.1440.877" timestamp="1609599624631" />
     <state width="1398" height="237" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1609256088865" />
     <state width="1398" height="237" key="GridCell.Tab.0.left/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1608653289470" />
-    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1609256088866">
+    <state width="1398" height="237" key="GridCell.Tab.0.right" timestamp="1609599624632">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state width="1398" height="237" key="GridCell.Tab.0.right/0.23.1440.877/1440.-45.3840.2137@0.23.1440.877" timestamp="1609599624632" />
     <state width="1398" height="237" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1609256088866" />
     <state width="1398" height="237" key="GridCell.Tab.0.right/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1608653289471" />
-    <state width="1398" height="397" key="GridCell.Tab.1.bottom" timestamp="1609086954815">
+    <state width="1398" height="397" key="GridCell.Tab.1.bottom" timestamp="1609598526575">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state width="1398" height="397" key="GridCell.Tab.1.bottom/0.23.1440.877/1440.-45.3840.2137@0.23.1440.877" timestamp="1609598526575" />
     <state width="1398" height="397" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1609086954815" />
     <state width="1398" height="286" key="GridCell.Tab.1.bottom/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812590" />
-    <state width="1398" height="397" key="GridCell.Tab.1.center" timestamp="1609086954814">
+    <state width="1398" height="397" key="GridCell.Tab.1.center" timestamp="1609598526574">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state width="1398" height="397" key="GridCell.Tab.1.center/0.23.1440.877/1440.-45.3840.2137@0.23.1440.877" timestamp="1609598526574" />
     <state width="1398" height="397" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1609086954814" />
     <state width="1398" height="286" key="GridCell.Tab.1.center/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812590" />
-    <state width="1398" height="397" key="GridCell.Tab.1.left" timestamp="1609086954814">
+    <state width="1398" height="397" key="GridCell.Tab.1.left" timestamp="1609598526574">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state width="1398" height="397" key="GridCell.Tab.1.left/0.23.1440.877/1440.-45.3840.2137@0.23.1440.877" timestamp="1609598526574" />
     <state width="1398" height="397" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1609086954814" />
     <state width="1398" height="286" key="GridCell.Tab.1.left/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812589" />
-    <state width="1398" height="397" key="GridCell.Tab.1.right" timestamp="1609086954814">
+    <state width="1398" height="397" key="GridCell.Tab.1.right" timestamp="1609598526575">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state width="1398" height="397" key="GridCell.Tab.1.right/0.23.1440.877/1440.-45.3840.2137@0.23.1440.877" timestamp="1609598526575" />
     <state width="1398" height="397" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1609086954814" />
     <state width="1398" height="286" key="GridCell.Tab.1.right/1440.23.1024.745/0.23.1440.877@0.23.1440.877" timestamp="1605339812590" />
     <state x="308" y="61" key="SettingsEditor" timestamp="1606835433185">
@@ -435,6 +456,16 @@
           <url>file://$PROJECT_DIR$/BAEK/Main_13335.java</url>
           <line>23</line>
           <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programmers/Printer.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Programmers/Printer.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="106" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/BAEK/Main_1978.java</url>
